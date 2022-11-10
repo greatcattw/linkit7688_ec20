@@ -1,0 +1,11 @@
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+
+
+if [ -e /sys/class/net/wwan0 ]
+then
+	/usr/bin/quectel-CM &
+	echo "nameserver 8.8.8.8" >> /etc/resolv.conf
+fi
+
+exit 0
