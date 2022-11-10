@@ -28,6 +28,16 @@ Thus, if you want use this image, you must update 3.18.109 by USB or you board i
 
 then update this image by command of mtd.
 
+## EC20 ipk for 3.18.109
 
+sh install.sh
+
+reboot system
+
+check /dev/ with ttyUSB0- ttyUSB3
+
+check /sys/class/net with wan0
+
+check ping www.yahoo.com is fine.
 
 
