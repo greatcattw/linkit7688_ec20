@@ -30,9 +30,13 @@ then update this image by command of mtd.
 
 ## EC20 ipk for 3.18.109
 
-sh install.sh
+Test with EC20 CE FAG
 
-reboot system
+Setup step :
+
+  sh install.sh
+
+  reboot system
 
 check /dev/ with ttyUSB0- ttyUSB3
 
