@@ -28,7 +28,7 @@ Thus, if you want use this image, you must update 3.18.109 by USB or you board i
 
 then update this image by command of mtd.
 
-## EC20 ipk for 3.18.109
+## EC20 ipk kit for 3.18.109
 
 Test with EC20 CE FAG
 
