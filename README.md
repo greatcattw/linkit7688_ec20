@@ -1,4 +1,4 @@
-# Linkit 7688 image with EC20
+# Linkit 7688 3.18.109 with EC20
 
 ## EC20 ipk kit for 3.18.109
 
