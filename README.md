@@ -1,12 +1,5 @@
 # Linkit 7688 image lks7688.img for rescue
 
-## usb_update_3.18.109
-copy lks7688.img to a blank USB disk.
-Boot mt7688 with pressing button of Wifi, 10 sec more
-
-
-
-
 ## mtd_update_3.18.23
 This image seems be factory image for Linkit 7688 / 7688 Duo.
 
