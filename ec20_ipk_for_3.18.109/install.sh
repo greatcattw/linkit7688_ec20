@@ -12,3 +12,4 @@ cp ko/usb_wwan.ko /lib/modules/3.18.109/
 cp setting/rc.local /etc/
 cp setting/usb-net-qmi-wwan /etc/modules.d/
 cp bin/quectel-CM /usr/bin/
+chmod a+x /usb/bin/quectel-CM
